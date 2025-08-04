@@ -1,5 +1,17 @@
 # 🚀 Data Cleaning with PySpark
+👨‍💼 Company Name : CODTECH IT SOLUTIONS
 
+🧑‍🎓 Intern Name : K MANJUNADH
+
+🆔 Internship ID : CT06DH1187
+
+🌐 Domain : BIG DATA
+
+📅 Duration : 6 WEEKS
+
+👨‍🏫 Mentor : NEELA SANTHOSH
+
+PROJECT DESCRIPTION
 This project showcases how to clean and preprocess a dataset using **Apache Spark (PySpark)** — a powerful big data engine. It includes handling of **missing values**, **removal of duplicate records**, and outputs summary statistics before and after cleaning.
 
 ---
