@@ -12,6 +12,7 @@
 👨‍🏫 Mentor : NEELA SANTHOSH
 
 PROJECT DESCRIPTION
+
 This project showcases how to clean and preprocess a dataset using **Apache Spark (PySpark)** — a powerful big data engine. It includes handling of **missing values**, **removal of duplicate records**, and outputs summary statistics before and after cleaning.
 
 ---
